@@ -17,9 +17,6 @@ There are no instructions about hover effects, you have to imagine them.  All mo
 You shall create a git branch with your name and integrate as many elements of the template as possible in the time allowed. 
 The quality and the respect of the norms and standards will be judged.
 
-## Tips
-It's always a plus to be using advanced technologies such as CSS Grid, Sass or even somethin like vuejs, although it's not required.
+## Bonus
+It's always a plus to be using advanced technologies such as CSS Grid, Sass or even something like vuejs, although it's not required.
 You could also choose to push your project on github pages, but as well, not mandatory.
-
-Overall the most important is the following :
-BE CAREFULL, WE EXPECT PIXEL PERFECT ON EVERY DEVICE
